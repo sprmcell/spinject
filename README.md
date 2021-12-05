@@ -12,6 +12,15 @@ DLL? Well that depends where u download it from, Windows defender usually picks 
 
 # Compatibility
 
-Windows :: Most stable
-Linux :: In Dev; supported distros:: 
-MacOS :: In Dev
+>Windows:
+>> Stable, 64x works better
+
+>Linux:
+>>In Dev
+>>
+>> Supported Distros:
+>> 
+>> N/A
+
+>MacOS:
+>>In Dev
