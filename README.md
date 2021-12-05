@@ -3,7 +3,7 @@ dll injector to hack in games OR have fun
 
 # Where to find dll?
 
-This injector is just the injector to prevent potential virus threats, i will however have a gta v dll folder and a csgo, all stolen files hehe, download with caution :)
+This injector is just the injector to prevent potential virus threats, i will however have a gta v and csgo folder, all stolen files hehe, download with caution :)
 
 # Is this safe?
 
