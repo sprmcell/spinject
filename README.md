@@ -13,7 +13,7 @@ DLL? Well that depends where u download it from, Windows defender usually picks 
 # Compatibility
 
 >Windows:
->> Stable, 64x works better
+>> In Dev
 
 >Linux:
 >>In Dev
